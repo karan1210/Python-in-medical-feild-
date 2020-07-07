@@ -12,3 +12,5 @@ Lecture 4: Text to speech using python? https://youtu.be/m7b2ZlpUONo
 Lecture 5: Object detection only in 15 lines. https://youtu.be/dOEmBC0HenQ
 
 Lecture 6: Real time object detection using deep learning. https://youtu.be/6NyNY2o3HCQ
+
+Lecture 7: Blood Cell Indentification using Image processing: https://youtu.be/a4qDVgCLgtM
