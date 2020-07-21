@@ -8,3 +8,5 @@ Lecture 2: How can you install and code coronavirus library in python? link http
 Lecture 3: How you can detect mask using deeepLearning? https://youtu.be/JtexyRC6e1Y
 
 Lecture 4: Blood Cell Indentification using Image processing: https://youtu.be/a4qDVgCLgtM
+
+Lecture 5: Detect COVID19 from CT scan image using deep learning: https://youtu.be/V9Drx2iTaK0
